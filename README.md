@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jeevanjyothi12
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hai I'm JeevanJyothi DK
+Im interested in hacking 
+- 🌱 I’m currently learning cyber security and ethical hacking 
+- 💞️ I’m really excited to learn new things 
+- 📫  I've learnt c and DSA using c.
 
 <!---
 Jeevanjyothi12/Jeevanjyothi12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
